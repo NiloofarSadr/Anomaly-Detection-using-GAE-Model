@@ -15,6 +15,7 @@ suitable for PyTorch Geometric (PyG), involving the creation of tensors
 for edges, edge attributes, and node features.
 5. Model Training and Evaluation: The GAE model is used for anomaly
 detection, with its performance evaluated using AUC and AP scores.
+
 Complexity Analysis
 • Computational Complexity: The similarity calculation, with a com-
 plexity of O(n2) where n is the number of data points, is the most com-
